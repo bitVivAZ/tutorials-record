@@ -1,5 +1,5 @@
 # completed-tutorials
-Tutorials And Courses I've Completed Over The Years And Currently Busy With.
+Tutorials and Courses I've Completed Over The Years and Those I'm Currently Busy With.
 
 ### Software Development
 Courses | School | Duration | Finished On | Source Code
