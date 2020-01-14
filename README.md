@@ -1,4 +1,4 @@
-# completed-tutorials
+# Tutorials
 Tutorials and Courses I've Completed Over The Years and Those I'm Currently Busy With.
 
 ### Software Development
