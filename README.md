@@ -5,6 +5,9 @@ Tutorials and Courses I've Completed Over The Years and Those I'm Currently Busy
 Courses | School | Duration | Finished On | Source Code
 :--: | :--: | :--: | :--: | :--:
 [Software Development Bundle](http://www.it-academy.co.za/software-development-bundle.asp) | IT Academy | 260 Hours | 10-01-2020 | N/A
+[Python Tkinter Masterclass - Learn Python GUI Programming](https://www.udemy.com/course/python-tkinter-masterclass/) | Udemy | 13.5 Hours | BUSY | N/A
+[Complete Python Bootcamp: Go from zero to hero in Python 3](https://www.udemy.com/course/complete-python-bootcamp/) | Udemy | 24 Hours | BUSY | N/A
+
 
 ### Website Development
 Courses | School | Duration | Finished On | Source Code
@@ -17,3 +20,4 @@ Courses | School | Duration | Finished On | Source Code
 :--: | :--: | :--: | :--: | :--:
 [Create Your First 2D Game With Godot](https://gdquest.mavenseed.com/courses/create-your-first-2d-game-with-godot-extended-edition) | GDQuest | 6 Hours | 13-12-2019 | [Link](https://github.com/bitVivAZ/completed-tutorials/tree/master/Game%20Dev/Godot%20Engine/GDQuest/Create%20Your%20First%202D%20Game%20with%20Godot%20(extended%20edition))
 [Create a Platform Game Character with Godot](https://gdquest.mavenseed.com/courses/code-a-professional-platform-game-character-with-godot) | GDQuest | 5 Hours  | 13-12-2019 |[Link](https://github.com/bitVivAZ/completed-tutorials/tree/master/Game%20Dev/Godot%20Engine/GDQuest/Create%20a%20Platform%20Game%20Character%20with%20Godot)
+[Discovering Godot: Make Video Games in Python-like GDScript](https://www.udemy.com/course/godot/) | Udemy | 38 Hours | BUSY | N/A
