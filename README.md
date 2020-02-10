@@ -6,7 +6,7 @@ Courses | School | Duration | Finished On | Source Code | Certification
 :--: | :--: | :--: | :--: | :--: | :--:
 [Software Development Bundle](http://www.it-academy.co.za/software-development-bundle.asp) | IT Academy | 260 Hours | 10-01-2020 | N/A | On Request
 [Python Tkinter Masterclass - Learn Python GUI Programming](https://www.udemy.com/course/python-tkinter-masterclass/) | Udemy | 13.5 Hours | BUSY | N/A | N/A
-[Complete Python Bootcamp: Go from zero to hero in Python 3](https://www.udemy.com/course/complete-python-bootcamp/) | Udemy | 24 Hours | BUSY | N/A | [Certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-9bedfae3-89e6-40c6-87bd-57b478b97fa1.jpg)
+[Complete Python Bootcamp: Go from zero to hero in Python 3](https://www.udemy.com/course/complete-python-bootcamp/) | Udemy | 24 Hours | 10-01-2020 | N/A | [Certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-9bedfae3-89e6-40c6-87bd-57b478b97fa1.jpg)
 
 
 ### Website Development
