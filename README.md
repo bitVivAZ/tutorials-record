@@ -14,7 +14,8 @@ Courses | School | Duration | Finished On | Source Code | Certification
 :--: | :--: | :--: | :--: | :--: | :--:
 [Node JS Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp) | YouTube | 4.5 Hours | 26-11-2019 | N/A | N/A
 [The Modern React Bootcamp (Hooks, Context, NextJS, Router)](https://www.udemy.com/course/modern-react-bootcamp/) | Udemy | 39 Hours | Busy | [Link](https://github.com/bitVivAZ/completed-tutorials/tree/master/ReactJS/The%20Modern%20React%20Bootcamp%20(Hooks%2C%20Context%2C%20Router%20%26%20More)) | N/A
-[Programming Foundations: Databases](https://www.linkedin.com/learning/programming-foundations-databases-2/) | LinkedIn | 1 Hour and 25 Minutes | 13-02-2020 | N/A | [Certificate](https://drive.google.com/open?id=1iZKYKVg_rEy_E_UWY6gGUf6nduEu22WN)
+[Programming Foundations: Databases](https://www.linkedin.com/learning/programming-foundations-databases-2/) | LinkedIn | 1 Hour and 25 Minutes | 11-02-2020 | N/A | [Certificate](https://drive.google.com/open?id=1iZKYKVg_rEy_E_UWY6gGUf6nduEu22WN)
+[PHP Essential Training](https://www.linkedin.com/learning/php-essential-training-2) | LinkedIn | 4 Hours | 13-02-2020 | N/A | [Certificate](https://drive.google.com/open?id=1VeAi5n9GUkWGk4JezO-fZKaLi2bV-54X)
 
 ### Game Development
 Courses | School | Duration | Finished On | Source Code | Certification
