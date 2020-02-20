@@ -1,0 +1,8 @@
+ .WiseSquare {
+     width: 200px;
+     height: 200px;
+     background-color: aqua;
+     align-items: center;
+     text-align: center;
+     display: flex;
+ }
