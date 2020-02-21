@@ -5,7 +5,7 @@ Tutorials and Courses I've Completed Over The Years and Those I'm Currently Busy
 Courses | School | Duration | Finished On | Certification
 :--: | :--: | :--: | :--: | :--:
 [Software Development Bundle](http://www.it-academy.co.za/software-development-bundle.asp) | IT Academy | 260 Hours | 10-01-2020 | On Request
-[Python Tkinter Masterclass - Learn Python GUI Programming](https://www.udemy.com/course/python-tkinter-masterclass/) | Udemy | 13.5 Hours | BUSY | N/A
+[Python Tkinter Masterclass - Learn Python GUI Programming](https://www.udemy.com/course/python-tkinter-masterclass/) | Udemy | 13.5 Hours | 21-02-2020 | [Certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-eff64317-743b-4efe-8876-590ad3aaef08.jpg)
 [Complete Python Bootcamp: Go from zero to hero in Python 3](https://www.udemy.com/course/complete-python-bootcamp/) | Udemy | 24 Hours | 10-01-2020 | [Certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-9bedfae3-89e6-40c6-87bd-57b478b97fa1.jpg)
 
 
