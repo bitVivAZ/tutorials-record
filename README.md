@@ -22,6 +22,7 @@ Courses | School | Duration | Finished On | Certification
 [Complete Intro to React, v5](https://frontendmasters.com/courses/complete-react-v5/) | Frontend Masters | 5.5 Hours | 02-05-2020 | N/A 
 [JavaScript: From Fundamentals to Functional JS, v2](https://frontendmasters.com/courses/js-fundamentals-functional-v2/) | Frontend Masters | 8 Hours | 13-05-2020 | N/A
 [JavaScript: The Hard Parts, v2](https://frontendmasters.com/courses/javascript-hard-parts-v2/) | Frontend Masters | 6 Hours | 14-05-2020 | N/A
+[State Management in Pure React, v2](https://frontendmasters.com/courses/pure-react-state/) | Frontend Masters | 4.5 Hours | 13-05-2020 | N/A
 
 ### Game Development
 Courses | School | Duration | Finished On | Certification
