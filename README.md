@@ -24,7 +24,7 @@ Courses | School | Duration | Finished On | Certification
 [JavaScript: The Hard Parts, v2](https://frontendmasters.com/courses/javascript-hard-parts-v2/) | Frontend Masters | 6 Hours | 14-05-2020 | N/A
 [State Management in Pure React, v2](https://frontendmasters.com/courses/pure-react-state/) | Frontend Masters | 4.5 Hours | 13-05-2020 | N/A
 [Intermediate React, v2](https://frontendmasters.com/courses/intermediate-react-v2/) | Frontend Masters | 4 Hours | 18-05-2020 | N/A
-
+[State Management in Pure React, v2](https://frontendmasters.com/courses/pure-react-state/) | Frontend Masters | 4.5 Hours | 23-05-2020 | N/A
 
 ### Game Development
 Courses | School | Duration | Finished On | Certification
